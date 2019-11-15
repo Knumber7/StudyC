@@ -1,0 +1,27 @@
+---問題----
+目的 : 予めポケモンのデータが格納されているポケモンの配列poke[]のパラメータを表示させる。
+なお、ポケモンは以下の要素を持つ。
+
+・ポケモン型
+name  (char型の配列) 名前
+hp    (int型の変数)  体力
+atk   (int型の変数)  攻撃力
+def   (int型の変数)  防御力
+speed (int型の変数)  素早さ
+
+
+出力例
+#--- Pikachu ---#
+Attack  : 12
+Defence : 6
+Speed   : 70
+
+#--- Waninoko ---#
+Attack  : 90
+Defence : 2
+Speed   : 2
+
+#--- Pochama ---#
+Attack  : 6
+Defence : 86
+Speed   : 21
